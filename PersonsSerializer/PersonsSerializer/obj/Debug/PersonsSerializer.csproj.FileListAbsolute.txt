@@ -1,0 +1,9 @@
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\bin\Debug\PersonsSerializer.exe.config
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\bin\Debug\PersonsSerializer.exe
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\bin\Debug\PersonsSerializer.pdb
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.csprojResolveAssemblyReference.cache
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.Persons.resources
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.Properties.Resources.resources
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.csproj.GenerateResource.Cache
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.exe
+D:\GitRepo\Serializer-Repo\PersonsSerializer\PersonsSerializer\obj\Debug\PersonsSerializer.pdb
